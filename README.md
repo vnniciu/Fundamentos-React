@@ -1,3 +1,8 @@
+# Curso Rápido de ReactJS COD3R Cursos
+
+Projeto desenvolvido em videoAula no canal COD3R Cursos. Postado aqui apenas para objeto de estudo;
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

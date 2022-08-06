@@ -2,6 +2,12 @@
 
 Projeto desenvolvido em videoAula no canal COD3R Cursos. Postado aqui apenas para objeto de estudo;
 
+## Links
+
+### Primeira Aula
+
+https://www.youtube.com/watch?v=XQxitgyZ_S4
+
 
 # Getting Started with Create React App
 

@@ -2,13 +2,20 @@ import './index.css'
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-// import Primeiro from './components/Primeiro.jsx'
+import Primeiro from './components/Primeiro.jsx'
 // import ComParametro from './components/ComParametro'
-import ComFilhos from './components/ComFilhos'
+// import ComFilhos from './components/ComFilhos'
+import Card from './components/layout/Card'
 
 ReactDOM.render(
     <div>
-        <ComFilhos>
+        <Card titulo="Primeiro Componente">
+            <Primeiro/>
+        </Card>
+        <Card titulo="Exercicio X">
+            Conteudo
+        </Card>
+ {/*        <ComFilhos>
             <ul>
                 <li>Ana</li>
                 <li>Bia</li>
@@ -16,7 +23,7 @@ ReactDOM.render(
                 <li>Daniel</li>
             </ul>
         </ComFilhos>
-        {/* <Primeiro/>
+  */}       {/* <Primeiro/>
         <ComParametro titulo="Esse é o titulo"
             subtitulo="Esse é o subtitulo"/>
         <ComParametro titulo="Opa" subtitulo="Epa"/> */}
